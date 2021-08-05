@@ -15,7 +15,7 @@
 由于原作者并没有提供Pytorch版本的代码，出于学习的目的自己尝试实现了一下，可能存在问题，欢迎各位指正和讨论
 
 ## Usage
-* 首先要用generate_datasets.py生成数据 ``` 
+* 首先要用generate_datasets.py生成数据
 ```
 python generate_datasets.py --output_dir ./data/processed/PEMS08/ --traffic_df_filename ./data/PEMS08/PEMS08.npz
 ``` 
