@@ -4,12 +4,12 @@
 ## Refer to the implementation of [Official](https://github.com/Davidham3/STSGCN)
 
 ## Requirements
-* Python
-* PyTorch
-* Pandas
-* Matplotlib
-* Numpy
-* seaborn
+* Python 3.8.10
+* Pytorch 1.9.0+cu111
+* Pandas 1.2.5
+* Matplotlib 3.4.2
+* Numpy 1.21.0
+* seaborn 0.11.1
 
 ## issues
 由于原作者并没有提供Pytorch版本的代码，出于学习的目的自己尝试实现了一下，可能存在问题，欢迎各位指正和讨论
