@@ -10,6 +10,7 @@
 * Matplotlib 3.4.2
 * Numpy 1.21.0
 * seaborn 0.11.1
+* 操作系统 CentOS Linux release 7.9.2009 (Core)
 
 ## issues
 由于原作者并没有提供Pytorch版本的代码，出于学习的目的自己尝试实现了一下，可能存在问题，欢迎各位指正和讨论
