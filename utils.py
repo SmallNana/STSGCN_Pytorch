@@ -70,7 +70,7 @@ def get_adjacency_matrix(distance_df_filename, num_of_vertices, type_='connectiv
         if type_ == 'connectivity':
             A[i, j] = 1
             A[j, i] = 1
-        elif type == 'distance':
+        elif type_ == 'distance':
             A[i, j] = 1 / distance
             A[j, i] = 1 / distance
         else:
